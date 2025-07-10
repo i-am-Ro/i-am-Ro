@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-Ro&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-Ro" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bibek.mondal.1485537)
